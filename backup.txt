@@ -1,0 +1,6 @@
+#0;are;1;file1.txt;1;am;1;file1.txt;1;Akshitha,;1;file1.txt;1;#
+#5;fine;1;file1.txt;1;#
+#7;hi;1;file1.txt;1;how;1;file1.txt;1;#
+#8;i;1;file1.txt;1;is;1;file1.txt;1;#
+#19;this;1;file1.txt;1;#
+#24;you;1;file1.txt;1;#
